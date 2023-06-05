@@ -2,4 +2,7 @@
 # This .gitignore file was automatically created by Microsoft(R) Visual Studio.
 ################################################################################
 
-/RestWithASPNETUdemy/RestWithASPNETUdemy/RestWithASPNETUdemy/bin/Debug/net6.0
+/RestWithASPNETUdemy/RestWithASPNETUdemy/RestWithASPNETUdemy/bin
+/RestWithASPNETUdemy/RestWithASPNETUdemy/RestWithASPNETUdemy/obj
+/RestWithASPNETUdemy/RestWithASPNETUdemy/RestWithASPNETUdemy/obj/Debug/net6.0/RestWithASPNETUdemy.dll
+/RestWithASPNETUdemy/RestWithASPNETUdemy/RestWithASPNETUdemy/obj/Debug/net6.0/RestWithASPNETUdemy.pdb
